@@ -1,5 +1,3 @@
-# frc-auto
+# FRC 2017 FIRST Steamworks
 
-nbps 
-
-nice
+FIRST Team 5140 (Eaglebotics) Automatic Mode Code
