@@ -1,5 +1,6 @@
-# frc-auto
+# FRC 2017 FIRST Steamworks
 
-nbps 
+FRC Team 5140 (Eaglebotics) Automatic Mode Code
 
-nice
+Dependencies/Libraries:
+wpilib, navx-mxp
